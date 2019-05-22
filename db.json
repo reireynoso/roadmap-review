@@ -44,9 +44,17 @@
       "name": "Leizl",
       "species": "Koala",
       "ferociousness": "2",
-      "hobby": "sleeping",
+      "hobby": "hobby",
       "image": "https://cdn.newsapi.com.au/image/v1/cb7dcda91f7aa778000fc90399a09ac8?width=650",
       "id": 21
+    },
+    {
+      "ferociousness": "44",
+      "hobby": "hobby",
+      "image": "sdjasd",
+      "name": "Reinald",
+      "species": "Dog",
+      "id": 23
     }
   ]
 }
